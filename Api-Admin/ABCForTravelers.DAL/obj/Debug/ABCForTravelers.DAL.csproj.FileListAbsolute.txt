@@ -6,3 +6,11 @@ F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.DAL\bin\Debug\ABCForTravelers.E
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.DAL\obj\Debug\ABCForTravelers.DAL.csprojResolveAssemblyReference.cache
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.DAL\obj\Debug\ABCForTravelers.DAL.dll
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.DAL\obj\Debug\ABCForTravelers.DAL.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\bin\Debug\ABCForTravelers.DAL.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\bin\Debug\ABCForTravelers.DAL.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\bin\Debug\ABCForTravelers.EN.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\bin\Debug\MySql.Data.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\bin\Debug\ABCForTravelers.EN.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\obj\Debug\ABCForTravelers.DAL.csprojResolveAssemblyReference.cache
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\obj\Debug\ABCForTravelers.DAL.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.DAL\obj\Debug\ABCForTravelers.DAL.pdb

@@ -65,7 +65,6 @@ namespace ABCForTravelers.DAL
                 object id = dbcommand.ExecuteScalar();
                 registerUser.ID = Convert.ToInt32(id);
                 return registerUser;
-                return null;
             }
             catch (Exception e1)
             {

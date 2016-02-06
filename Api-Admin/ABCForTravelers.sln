@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCForTravelers.Api", "ABCForTravelers\ABCForTravelers.Api.csproj", "{D46C2A48-E0CA-4685-890A-FE27B6B90179}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCForTravelers.EN", "ABCForTravelers.EN\ABCForTravelers.EN.csproj", "{2BBF7068-6EBD-4B35-8340-CD2326D6670F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCForTravelers.DAL", "ABCForTravelers.DAL\ABCForTravelers.DAL.csproj", "{E40878F9-8C6A-4515-ADBE-B8C9E0B8C648}"
@@ -10,6 +8,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCForTravelers.Biz", "ABCForTravelers.Biz\ABCForTravelers.Biz.csproj", "{6A1246D3-BB1C-46BB-BC43-1B008BA1DF4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCForTravelers.Admin", "ABCForTravelers.Admin\ABCForTravelers.Admin.csproj", "{0ED0DD98-1C46-436B-9D56-41F7796A1B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCForTravelers.Api", "ABCForTravelers.Api\ABCForTravelers.Api.csproj", "{D46C2A48-E0CA-4685-890A-FE27B6B90179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,16 +21,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|x86.ActiveCfg = Release|Any CPU
 		{2BBF7068-6EBD-4B35-8340-CD2326D6670F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2BBF7068-6EBD-4B35-8340-CD2326D6670F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BBF7068-6EBD-4B35-8340-CD2326D6670F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -71,6 +61,16 @@ Global
 		{0ED0DD98-1C46-436B-9D56-41F7796A1B82}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{0ED0DD98-1C46-436B-9D56-41F7796A1B82}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{0ED0DD98-1C46-436B-9D56-41F7796A1B82}.Release|x86.ActiveCfg = Release|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D46C2A48-E0CA-4685-890A-FE27B6B90179}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

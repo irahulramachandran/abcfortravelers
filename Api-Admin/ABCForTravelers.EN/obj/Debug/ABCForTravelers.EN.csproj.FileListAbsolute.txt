@@ -2,3 +2,7 @@ F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\bin\Debug\ABCForTravelers.EN
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\bin\Debug\ABCForTravelers.EN.pdb
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\obj\Debug\ABCForTravelers.EN.dll
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\obj\Debug\ABCForTravelers.EN.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.EN\bin\Debug\ABCForTravelers.EN.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.EN\bin\Debug\ABCForTravelers.EN.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.EN\obj\Debug\ABCForTravelers.EN.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.EN\obj\Debug\ABCForTravelers.EN.pdb

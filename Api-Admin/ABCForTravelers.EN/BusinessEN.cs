@@ -12,9 +12,10 @@ namespace ABCForTravelers.EN
         public CategoryEN Category { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public string Bannerimageurl { get; set; }
-        public float Logitude { get; set; }
+        public float Longitude { get; set; }
         public float Latitude { get; set; }
+        public string Currency { get; set; }
+        public decimal Price { get; set; }
         public int Status { get; set; }
         public DateTime CreatedOn { get; set; }
     }

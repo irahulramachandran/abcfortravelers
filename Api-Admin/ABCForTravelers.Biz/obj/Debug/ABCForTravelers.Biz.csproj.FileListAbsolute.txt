@@ -8,3 +8,13 @@ F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.D
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.EN.pdb
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.dll
 F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.Biz.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.Biz.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.DAL.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.EN.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\MySql.Data.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.DAL.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.EN.pdb
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.csprojResolveAssemblyReference.cache
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.dll
+F:\SourceCode\abcfortravelers\Api-Admin\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.pdb
