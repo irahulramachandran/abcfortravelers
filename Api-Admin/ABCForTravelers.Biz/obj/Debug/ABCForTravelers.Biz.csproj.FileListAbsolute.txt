@@ -1,0 +1,10 @@
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.csprojResolveAssemblyReference.cache
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.Biz.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.Biz.pdb
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.DAL.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.EN.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\MySql.Data.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.DAL.pdb
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\bin\Debug\ABCForTravelers.EN.pdb
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.Biz\obj\Debug\ABCForTravelers.Biz.pdb

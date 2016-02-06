@@ -1,0 +1,4 @@
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\bin\Debug\ABCForTravelers.EN.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\bin\Debug\ABCForTravelers.EN.pdb
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\obj\Debug\ABCForTravelers.EN.dll
+F:\ABC4Travelers\ABCForTravelers\ABCForTravelers.EN\obj\Debug\ABCForTravelers.EN.pdb
