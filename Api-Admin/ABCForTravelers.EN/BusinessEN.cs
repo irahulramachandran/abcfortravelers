@@ -16,6 +16,7 @@ namespace ABCForTravelers.EN
         public float Latitude { get; set; }
         public string Currency { get; set; }
         public decimal Price { get; set; }
+        public string Distance { get; set; }
         public int Status { get; set; }
         public DateTime CreatedOn { get; set; }
     }

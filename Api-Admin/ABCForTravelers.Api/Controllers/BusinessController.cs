@@ -45,14 +45,11 @@ namespace ABCForTravelers.Controllers
             return business;
         }
 
-        [HttpGet]
-        public List<BusinessEN> Get(float latitude, float longitude)
+        [HttpPost]
+        public List<BusinessEN> Search(Business business)
         {
-            BusinessEN business = new BusinessEN();
-            business.Latitude = latitude;
-            business.Longitude = longitude;
             BusinessBiz biz = new BusinessBiz();
-            return biz.Get(latitude, longitude);
+            return biz.GetByGeo(business.Latitude, business.Longitude);
         }
         
         [HttpPost]

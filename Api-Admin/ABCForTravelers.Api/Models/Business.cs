@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace ABCForTravelers.Api.Model
@@ -16,6 +17,7 @@ namespace ABCForTravelers.Api.Model
         public float Latitude { get; set; }
         public string Currency { get; set; }
         public decimal Price { get; set; }
+        public string Distance { get; set; }
         public string Phonenumber { get; set; }
         public string EmailID { get; set; }
         public string Address { get; set; }

@@ -28,9 +28,9 @@ namespace ABCForTravelers.Biz
             return businessDal.GetPhoto(id);
         }
 
-        public List<BusinessEN> Get(float latitude, float longitude)
+        public List<BusinessEN> GetByGeo(float latitude, float longitude)
         {
-            return null;
+            return businessDal.GetByGeo(latitude, longitude);
         }
     }
 }
