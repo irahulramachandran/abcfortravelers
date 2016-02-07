@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/header_layout"
+        layout="@layout/header_layout"></include>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header_layout"
+        android:gravity="top"
+        android:orientation="vertical">
+
+        <AutoCompleteTextView
+            android:id="@+id/et_search_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            android:drawablePadding="@dimen/five"
+            android:drawableLeft="@drawable/search"
+            android:hint="Start typing your location..."
+            android:imeOptions="actionDone"
+            android:paddingBottom="6dp"
+            android:paddingLeft="@dimen/twenty"
+            android:paddingRight="@dimen/twenty"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+            android:textColor="@color/text2d__color"
+            android:textColorHint="@color/text2d__color"
+            android:textSize="16sp" />
+
+
+    </LinearLayout>
+</RelativeLayout>

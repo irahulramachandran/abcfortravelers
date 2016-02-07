@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="detailpagepink">#FA5882</color>
+    <color name="black">#000</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="half_black">#808080</color>
+    <color name="orange">#FF4000</color>
+    <color name="background_dark_blue">#222534</color>
+    <color name="header_color">#fb2b69</color>
+    <color name="button_blue">#0bb5c2</color>
+    <color name="button_grey">#70808f</color>
+    <color name="edittext_back">#fd5867</color>
+    <color name="transparent_list">#99000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_light_blue">#f4f4f4</color>
+    <color name="background_dark_blue_transperant">#EE222534</color>
+    <color name="light_grey">#eeebebeb</color>
+    <color name="text_dark">#34495e</color>
+    <color name="text_light">#a1b2bc</color>
+    <color name="record_red">#d71919</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="popup_transparent">#B2000000</color>
+    <color name="alternate_row_color">#F7F7F7</color>
+    <color name="color_red">#FF1105</color>
+    <color name="color_light_red">#FF6B63</color>
+    <color name="color_very_light_red">#F79F9B</color>
+    <color name="color_yellow">#FCE431</color>
+    <color name="color_green">#379D35</color>
+    <color name="color_blue">#0000FF</color>
+    <color name="chaipoint_green">#20592E</color>
+    <color name="chaipoint_grey">#b7b7b7</color>
+    <color name="alternate_grey">#e5e5e5</color>
+    <color name="color_login_submit">#FF6450</color>
+    <color name="green_logo_color">#005622</color>
+    <color name="red_cancel_order">#FFA6A7</color>
+    <color name="green_delivered_order">#93C985</color>
+    <color name="text2d__color">#2d2d2d</color>
+
+    <color name="base_rating_color">#D8D8D8</color>
+
+    <color name="place_holder_color">#ABABAB</color>
+
+    <color name="pointfiverating">#b93b3c</color>
+    <color name="onepointzero">#cc3e30</color>
+    <color name="onepointfive">#ee8033</color>
+    <color name="twopoiontzero">#f4b833</color>
+    <color name="twopointfive">#ead234</color>
+    <color name="threepoiontzero">#a8c539</color>
+    <color name="threepointfive">#70a02a</color>
+    <color name="fourpointzero">#517803</color>
+    <color name="fourpointfive">#517803</color>
+    <color name="fivepointzero">#3c5803</color>
+</resources>
